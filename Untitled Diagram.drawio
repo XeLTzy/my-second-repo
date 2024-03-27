@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T08:56:53.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="l1CesYb1as24rINvx1g7" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T08:59:18.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="yWrK36kY9Wgg9KP0C0OR" version="24.2.0" type="github">
   <diagram name="Page-1" id="f-FT1rUhoASd2f0an_6X">
     <mxGraphModel dx="794" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,8 +57,14 @@
         <mxCell id="oKHr2jN-2uXYwJmryG8--1" value="Log book" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="480" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="oKHr2jN-2uXYwJmryG8--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oKHr2jN-2uXYwJmryG8--3" target="oKHr2jN-2uXYwJmryG8--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oKHr2jN-2uXYwJmryG8--3" value="Insert &amp;amp; Search Patient" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="680" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oKHr2jN-2uXYwJmryG8--5" value="Track Condition" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="680" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
