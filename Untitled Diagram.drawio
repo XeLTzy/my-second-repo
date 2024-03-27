@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T00:42:24.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="zYxV_woS9HzCijSglLg2" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T00:45:16.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="icxhV1mcVIjqUZYNS__2" version="24.2.0" type="github">
   <diagram name="Page-1" id="f-FT1rUhoASd2f0an_6X">
     <mxGraphModel dx="794" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,8 +22,16 @@
         <mxCell id="K1mzVftVEfYpcNpW3lGC-5" value="Login" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="310" y="220" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="K1mzVftVEfYpcNpW3lGC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K1mzVftVEfYpcNpW3lGC-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K1mzVftVEfYpcNpW3lGC-7" value="Forgot Password" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="510" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K1mzVftVEfYpcNpW3lGC-10" value="Sucess" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="105" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
