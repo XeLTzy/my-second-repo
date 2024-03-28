@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T00:49:32.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="LcwZES2WYzZpYOjpL1Jz" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T01:00:14.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="H9VYyGLyP0EBANkHkium" version="24.2.0" type="github">
   <diagram name="Page-1" id="f-FT1rUhoASd2f0an_6X">
     <mxGraphModel dx="1686" dy="1544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -139,11 +139,8 @@
         <mxCell id="AhhZmJ7YH51ZSfNFe0I0-13" value="Unfinish" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="730" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VV8rBGqvcE3_4lx7CKaa-1" value="Active Patient" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="VV8rBGqvcE3_4lx7CKaa-1" value="Generates Reports of active and inactive patient" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="910" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VV8rBGqvcE3_4lx7CKaa-3" value="Active Patient" style="whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="910" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VV8rBGqvcE3_4lx7CKaa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VV8rBGqvcE3_4lx7CKaa-5" target="VV8rBGqvcE3_4lx7CKaa-8">
           <mxGeometry relative="1" as="geometry">
@@ -157,7 +154,7 @@
             <mxPoint x="130.31578947368428" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VV8rBGqvcE3_4lx7CKaa-5" value="Authenticate User" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VV8rBGqvcE3_4lx7CKaa-5" value="Authenticate User" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="75" y="190" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VV8rBGqvcE3_4lx7CKaa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VV8rBGqvcE3_4lx7CKaa-8" target="K1mzVftVEfYpcNpW3lGC-13">
@@ -172,7 +169,7 @@
         <mxCell id="VV8rBGqvcE3_4lx7CKaa-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VV8rBGqvcE3_4lx7CKaa-11" target="VV8rBGqvcE3_4lx7CKaa-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VV8rBGqvcE3_4lx7CKaa-11" value="Authenticate User" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VV8rBGqvcE3_4lx7CKaa-11" value="Authenticate User" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="675" y="-60" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VV8rBGqvcE3_4lx7CKaa-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VV8rBGqvcE3_4lx7CKaa-17" target="K1mzVftVEfYpcNpW3lGC-5">
